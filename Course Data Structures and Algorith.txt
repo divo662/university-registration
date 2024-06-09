@@ -1,0 +1,5 @@
+Course: Data Structures and Algorithms
+
+Title: "Data Structures and Algorithms: Analysis and Implementation"
+Author: Emily Jones
+Description: This textbook provides a detailed exploration of data structures and algorithms, focusing on their analysis, design, and implementation. From linked lists and trees to sorting algorithms and graph algorithms, each chapter offers in-depth coverage of key concepts along with programming exercises to reinforce learning. Students will learn how to analyze the efficiency of algorithms and apply them to solve real-world problems.

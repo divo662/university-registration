@@ -1,0 +1,5 @@
+Course: Introduction to Computer Science
+
+Title: "Introduction to Computer Science: Principles and Practice"
+Author: John Smith
+Description: This textbook offers a comprehensive introduction to the fundamental concepts of computer science, covering topics such as programming basics, data structures, algorithms, and problem-solving techniques. With clear explanations and practical examples, students will gain a solid understanding of the principles underlying computer science and develop essential programming skills.

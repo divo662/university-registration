@@ -1,0 +1,5 @@
+Course: Computer Networks
+
+Title: "Computer Networks: Principles and Protocols"
+Author: Michael Brown
+Description: This textbook delves into the principles and protocols governing computer networks, including network architectures, communication protocols, and network security. Through a combination of theoretical discussions and practical examples, students will explore topics such as TCP/IP, routing algorithms, network performance analysis, and network management. With a focus on both the theoretical foundations and practical applications, this book equips students with the knowledge and skills needed to design, implement, and manage computer networks effectively.

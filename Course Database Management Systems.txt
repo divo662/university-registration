@@ -1,0 +1,5 @@
+Course: Database Management Systems
+
+Title: "Database Management Systems: Concepts and Applications"
+Author: Sarah Johnson
+Description: This textbook covers the fundamental concepts and principles of database management systems (DBMS), including data modeling, database design, query optimization, and transaction management. With a hands-on approach, students will learn how to design and implement relational databases, write SQL queries, and develop database-driven applications. Additionally, advanced topics such as data warehousing, distributed databases, and NoSQL databases are also explored, providing students with a comprehensive understanding of modern database technologies.
